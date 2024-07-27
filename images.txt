@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:1.25.0
-RedisInsight:2.50
+rRedis Insight:2.50
