@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:1.25.0
 RedisInsight:2.50.0
+redisinsight:2.50.
